@@ -14,9 +14,9 @@ Once completed with Installation step, go to the project folder and run below co
 scrapy crawl pdf_downloader
 
 # Features of the project
-This project is very limited functionality as I have developed it for specific purpose.
-Crapy with search with company code in google search engine.
-Then scrapy will crawl all search result and select only those links haveing extension as .pdf
+This project has very limited functionality.I have just developed it for one small project.
+Scrapy will search for Company annual report in pdf format using custom url in google search engine.
+Then scrapy will crawl all search result and select only those links haveing extension as .pdf.
 Then those links will be taken forward for downloading and saving "Annual reports"  of the company.
 Please extend this for specifc requirements.
 
